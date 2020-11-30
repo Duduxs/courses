@@ -1,2 +1,2 @@
 # courses
-📖 repo created to save some of my courses
+Go to folders to see anotations
