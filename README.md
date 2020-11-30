@@ -1,2 +1,2 @@
 # courses
-Go to folders to see anotations
+Go to the folders to see the anotations
