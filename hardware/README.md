@@ -60,8 +60,7 @@ Exemplos de periféricos de entrada e saída de dados: Monitores touch screen.
 
 Ela é o componente principal de um computador, pois é justamente na placa mãe que é conectado todos os outros periféricos do computador. Na imagem abaixo você verá os principais componentes abordados em aula sem aprofundamento, pois nós veremos mais para frente.
 
-<img href="https://miro.medium.com/max/1972/1*IWQdop1gOO2NIell2ssivw.png"/>
-
+<img src="https://miro.medium.com/max/1972/1*IWQdop1gOO2NIell2ssivw.png" alt="Componentes da placa mãe">
 
 <h1>Aula 04 - O que é o Processador</h1>
 
