@@ -71,10 +71,6 @@ Dentro do processador temos alguns componentes tais como:
 
 ✔️ Memórias caches: Memórias mais lentas que o registrador, porém também muito rápida, tendo três níveis L1, L2 & L3.
 
----
-
-<br/>
-<br/>
 
 <h2 align="center">📰 Informações</h2>
 
