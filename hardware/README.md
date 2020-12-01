@@ -74,10 +74,7 @@ Dentro do processador temos alguns componentes tais como:
 
 <h2 align="center">📰 Informações</h2>
 
-## 🗃 Histórico de lançamento
----
-
-## 📝 Meta
+<h3>📝 Meta</h3>
 
 Eduardo José - [Meu Portfólio](https://duduxs.github.io/portfolio/) 
 
