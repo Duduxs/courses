@@ -79,7 +79,7 @@ Na hora de colocar um novo processador na sua máquina, sempre veja o socket da 
 <h1>Tópico 04 - O que é a Memória RAM</h1>
 <hr>
 
-Conhecida como memória principal, quando ligamos o computador os arquivos do SO são carregados do HD ou do SSD direto para a RAM, e depois que são carregados na RAM ele são passados para serem processados. O tempo todo os dados que estão na memória RAM são trocados por dados novos que precisam ser processados em tela no momento. 
+Conhecida como **memória principal**, quando ligamos o computador os arquivos do SO são carregados do HD ou do SSD direto para a RAM, e depois que são carregados na RAM ele são passados para serem processados. O tempo todo os dados que estão na memória RAM são trocados por dados novos que precisam ser processados em tela no momento. 
 
 💡 Curiosidade
 
@@ -90,9 +90,9 @@ Quando desligamos o computador toda a RAM é apagada, ao ligarmos o mesmo novame
 
 Ambos são memórias de armazenamento em massa, ou seja, posso salvar arquivos muito grandes do pc neles. 
 
-HD (Hard Disk) => É formado por um disco magnético, sendo gravado de forma magnética. Quanto mais RPM (Rotações por minutos) tiver o disco, mais rápido será a gravação e a leitura do dado no HD. Existem discos com velocidades maiores com mais de 10 mil rotações por minuto que são muitos utilizados em servidores, se você for ter uma boa velocidade de gravação do disco tenha certeza de que a refrigeração do seu pc seja boa também.
+**HD (Hard Disk)** => É formado por um disco magnético, sendo gravado de forma magnética. Quanto mais RPM (Rotações por minutos) tiver o disco, mais rápido será a gravação e a leitura do dado no HD. Existem discos com velocidades maiores com mais de 10 mil rotações por minuto que são muitos utilizados em servidores, se você for ter uma boa velocidade de gravação do disco tenha certeza de que a refrigeração do seu pc seja boa também.
 
-SSD (Solid State Drive) => Não tem discos magnéticos. Ele é formado por chips, memórias flashs iguais ao dos pendrives. São nesses chips que os dados são gravados e são lidos, consequentemente o SSD é muito mais rápido que o HD, e por esse motivo ele é bem mais caro. 
+**SSD (Solid State Drive)** => Não tem discos magnéticos. Ele é formado por chips, memórias flashs iguais ao dos pendrives. São nesses chips que os dados são gravados e são lidos, consequentemente o SSD é muito mais rápido que o HD, e por esse motivo ele é bem mais caro. 
 
 <h1>Tópico 06 - Chipset Ponte Norte e Ponte Sul</h1>
 <hr>
@@ -103,8 +103,8 @@ Imagine que temos uma cidade que tem as ruas na qual trafegam carros entre outro
 
 O chipset é mais ou menos isso, pois é ele quem controla o trafégo de dados dos componentes do computador.
 
-Chipset norte => É responsável pelo controle dos dados de componentes mais potentes, tais como Processador, Placa de Vídeo, Memória RAM & etc. 
-Chipset sul => É responsável pelos periféricos mais lentos, tais como Dispositivos conectados na entrada PCI, Periféricos de entrada e saida de dados onboard (Parafusados na placa mãe), HD & etc.
+**Chipset norte** => É responsável pelo controle dos dados de componentes mais potentes, tais como Processador, Placa de Vídeo, Memória RAM & etc. </br>
+**Chipset sul** => É responsável pelos periféricos mais lentos, tais como Dispositivos conectados na entrada PCI, Periféricos de entrada e saida de dados onboard (Parafusados na placa mãe), HD & etc.
 
 <h1>Tópico 07 - Coolers</h1>
 <hr>
@@ -128,9 +128,9 @@ O Water cooler também é uma boa alternativa para ser colocado no processador, 
 
 **DVI** no qual tem três tipos -> DVI-A, DVI-I, DVI-D:
 
-✔️ DVI-A: Mais antiga com conexão analógica
-✔️ DVI-I: Conexão analógica e digital
-✔️ DVI-D: Apenas conexão digital
+✔️ DVI-A: Mais antiga com conexão analógica </br>
+✔️ DVI-I: Conexão analógica e digital </br>
+✔️ DVI-D: Apenas conexão digital </br>
 
 DVI-A e DVI-I podem usar adaptador para VGA.
 
