@@ -119,7 +119,7 @@ O Water cooler também é uma boa alternativa para ser colocado no processador, 
 
 <img src="https://http2.mlstatic.com/cooler-dagua-corsair-h55-quiet-cw-9060010-ww-D_NQ_NP_811999-MLB29734488960_032019-F.jpg" alt="Cooler d'agua dissipador de calor">
 
-<h1>Tópico 10 - Conectores de vídeo</h1>
+<h1>Tópico 08 - Conectores de vídeo</h1>
 <hr>
 
 **VGA** bem conhecida e bem antiga que é com conexão analógica.
