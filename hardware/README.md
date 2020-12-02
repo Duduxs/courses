@@ -139,15 +139,3 @@ DVI-A e DVI-I podem usar adaptador para VGA.
 **HDMI** é o padrão mais utilizado atualmente, conseguindo transmitir áudio digital além de vídeo digital pelo mesmo cabo. Pode ser convertido o sinal entre DVI-I e DVI-D,
 
 <img src="https://img.kalunga.com.br/fotosdeprodutos/162256z.jpg" alt="Cabos HDMI">
-
-
-<h2 align="center">📰 Informações</h2>
-
-<h3>📝 Meta</h3>
-
-Eduardo José - [Meu Portfólio](https://duduxs.github.io/portfolio/) 
-
-Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
-
-[https://github.com/Duduxs/courses](https://github.com/Duduxs/)
-
