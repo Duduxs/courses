@@ -52,11 +52,36 @@ Responsável para que haja interação entre nós seres humanos e o pc. Existem 
 <h1>Tópico 02 - O que é a Motherboard</h1>
 <hr>
 
-Ela é o **componente principal de um computador**, pois é justamente na placa mãe que é conectado todos os outros periféricos do computador. Na imagem abaixo você verá os principais componentes abordados em aula sem aprofundamento, pois nós veremos mais para frente.
+Ela é o **componente principal de um computador**, pois é justamente na placa mãe que é conectado todos os outros periféricos do computador. Na imagem abaixo você verá os principais componentes abordados em aula.
 
 <img src="https://miro.medium.com/max/1972/1*IWQdop1gOO2NIell2ssivw.png" alt="Componentes da placa mãe">
 
-<h1>Tópico 03 - O que é o Processador</h1>
+Toda placa mãe vem com um socket para por um processador, entretanto você tem que tomar cuidado antes de comprar o processador ou a placa mãe, dependendo do que você tiver comprado primeiro. Você sempre terá que saber **qual processador encaixa no socket da sua placa mãe**, você pode saber o formato e versão da motherboard e/ou processador que você quer comprar por exemplo, através de softwares.
+
+Existe placa mãe onboard e offboard, veja a diferença a seguir.
+
+Placas mãe onboard => Expressão usada para dizer que determinado recurso está embutido na placa mãe
+Placas mãe offboard => Quando existe uma placa extra
+
+Esse termo é bem mais usado com placas de vídeos, entretanto quanto queremos dizer que determinado recurso já vem junto/parafusado na placa mãe (muito comum com placas de vídeo integradas) dizemos que ela é onboard.
+
+Sempre evite também pegar na placa mãe com mãos sujas ou segurando em lugares indevidos, pois temos energia estática em nossos corpos e podemos acabar queimando algo. Sempre pegue pelas bordas com muito cuidado.
+
+<h1>Tópico 03 - O que é a Memória Principal</h1>
+<hr>
+
+Conhecida como memória principal, quando ligamos o computador os arquivos do SO são carregados do HD ou do SSD direto para a RAM, e depois que são carregados na RAM ele são passados para serem processados. O tempo todo os dados que estão na memória RAM são trocados por dados novos que precisam ser processados em tela no momento. 
+
+💡 Curiosidade
+
+Quando desligamos o computador toda a RAM é apagada, ao ligarmos o mesmo novamente ela ser recolocada. É por isso que quando estamos com algo no nosso CTRL C e desligamos o pc não vamos poder mais colar, pois os dados foram perdidos, só estão lá em tempo de execução.
+
+Na hora de comprar a memória você tem que comprá-la de acordo com a placa mãe também. Pois, a placa mãe tem uma entrada de placa de memória que varia de acordo com o modelo, então se você comprar uma memória DDR4 tenha certeza que a entrada da motherboard também seja.
+
+💡 Curiosidade 2
+Saiba que é um mito quando alguém diz que se você aumentar a memória do computador ele vai ficar muito mais rápido, isso não é verdade, exceto que se você for abrir alguma coisa como um jogo que pede 8 gigas no minimo e você tiver 16, vai usar um pouquinho mais pra melhorar o desempenho, pois ele vai fazer menos swap pro disco. Mas, seu computador não vai ficar mais rápido por causa de uma memória, no mínimo vai abrir alguns programas mais pesados em termos de que antes não abriam devido a falta de RAM.
+
+<h1>Tópico 04 - O que é o Processador</h1>
 <hr>
 
 Quando ligamos o computador, os arquivos do sistema estão sendo carregados para a RAM, arquivos esses que já estão no HD. E da memória RAM ele é passado para o processador que assume todos os cálculos necessários que precisa fazer para executar uma determinada tarefa. O processador nunca acessa diretamente o HD para poder pegar dados para ser processado. Ele vai primeiro na RAM e a RAM vai no HD buscar os dados que ele precisa.
@@ -76,15 +101,6 @@ Dentro do processador temos alguns componentes tais como:
 
 Na hora de colocar um novo processador na sua máquina, sempre veja o socket da placa mãe, isso é se ela tem compatibilidade com esse processador ou não. Esses sockets servem como porta de entrada para instalar o processador na motherboard. 
 
-<h1>Tópico 04 - O que é a Memória RAM</h1>
-<hr>
-
-Conhecida como memória principal, quando ligamos o computador os arquivos do SO são carregados do HD ou do SSD direto para a RAM, e depois que são carregados na RAM ele são passados para serem processados. O tempo todo os dados que estão na memória RAM são trocados por dados novos que precisam ser processados em tela no momento. 
-
-💡 Curiosidade
-
-Quando desligamos o computador toda a RAM é apagada, ao ligarmos o mesmo novamente ela ser recolocada. É por isso que quando estamos com algo no nosso CTRL C e desligamos o pc não vamos poder mais colar, pois os dados foram perdidos, só estão lá em tempo de execução.
-
 <h1>Tópico 05 - Qual a diferença entre HD e SSD</h1>
 <hr>
 
@@ -93,6 +109,10 @@ Ambos são memórias de armazenamento em massa, ou seja, posso salvar arquivos m
 HD (Hard Disk) => É formado por um disco magnético, sendo gravado de forma magnética. Quanto mais RPM (Rotações por minutos) tiver o disco, mais rápido será a gravação e a leitura do dado no HD. Existem discos com velocidades maiores com mais de 10 mil rotações por minuto que são muitos utilizados em servidores, se você for ter uma boa velocidade de gravação do disco tenha certeza de que a refrigeração do seu pc seja boa também.
 
 SSD (Solid State Drive) => Não tem discos magnéticos. Ele é formado por chips, memórias flashs iguais ao dos pendrives. São nesses chips que os dados são gravados e são lidos, consequentemente o SSD é muito mais rápido que o HD, e por esse motivo ele é bem mais caro. 
+
+💡 Curiosidade
+
+O componente mais lento de um computador é o HD/SSD. Devido a grande quantidade de volumes (seus documentos, fotos, SO, ...)  que tem que ser processada em várias partes do sistema.
 
 <h1>Tópico 06 - Chipset Ponte Norte e Ponte Sul</h1>
 <hr>
@@ -119,9 +139,9 @@ O Water cooler também é uma boa alternativa para ser colocado no processador, 
 
 <img src="https://http2.mlstatic.com/cooler-dagua-corsair-h55-quiet-cw-9060010-ww-D_NQ_NP_811999-MLB29734488960_032019-F.jpg" alt="Cooler d'agua dissipador de calor">
 
-<h1>Tópico 10 - Conectores de vídeo</h1>
+<h1>Tópico 08 - Conectores de vídeo</h1>
 <hr>
-
+ 
 **VGA** bem conhecida e bem antiga que é com conexão analógica.
 
 <img src="https://www.dhresource.com/0x0/f2/albu/g10/M01/A0/BB/rBVaWV11LG2AMgcjAAWipy6Ppwk797.jpg/20pc-lot-vga-cable-computer-monitor-video.jpg" alt="Cabos VGA">
@@ -140,14 +160,4 @@ DVI-A e DVI-I podem usar adaptador para VGA.
 
 <img src="https://img.kalunga.com.br/fotosdeprodutos/162256z.jpg" alt="Cabos HDMI">
 
-
-<h2 align="center">📰 Informações</h2>
-
-<h3>📝 Meta</h3>
-
-Eduardo José - [Meu Portfólio](https://duduxs.github.io/portfolio/) 
-
-Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
-
-[https://github.com/Duduxs/courses](https://github.com/Duduxs/)
 
