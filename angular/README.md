@@ -16,10 +16,10 @@ Com tudo isso, ele é conhecido por trazer uma experiência muito agradável par
 
 <h1> 3 - Comandos Úteis </h1>
 
-✔️ npm install -g @angular/cli: Instala o angular CLI de forma global na sua máquina.
-✔️ ng new projectName: Cria um novo projeto angular
-✔️ ng --version: Verifica a versão do seu angular
-✔️ ng serve --open: Executa projeto angular abrindo automaticamente o browser
+✔️ npm install -g @angular/cli: Instala o angular CLI de forma global na sua máquina. </br>
+✔️ ng new projectName: Cria um novo projeto angular </br>
+✔️ ng --version: Verifica a versão do seu angular </br>
+✔️ ng serve --open: Executa projeto angular abrindo automaticamente o browser </br>
 
 <h1> 4 - Entendendo um pouco da estrutura </h1>
 
